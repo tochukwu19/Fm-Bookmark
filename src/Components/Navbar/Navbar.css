@@ -1,0 +1,38 @@
+.navbar{
+    height: 80px;
+    width: 100%; 
+}
+
+.nav-container{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    height: inherit;
+}
+
+.nav{
+    width: 400px;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li{
+    list-style-type: none;
+}
+
+.redlink{
+    background-color: hsl(0, 94%, 66%);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    width: 80px;
+    text-align: center;
+}

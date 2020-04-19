@@ -1,0 +1,27 @@
+.card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card div{
+    width: 40%;
+}
+
+.card img{
+    max-width: 100%;
+}
+
+.card p{
+    color: hsl(229, 8%, 60%);
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.card a{
+    text-decoration: none;
+    background-color: hsl(231, 69%, 60%);
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
