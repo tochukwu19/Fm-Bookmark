@@ -23,8 +23,14 @@
 .Features li{
     list-style-type: none;
     color: hsl(229, 8%, 60%);
+    cursor: pointer;
+    padding: 10px;
 }
 
 .Features-container{
     text-align: center;
+}
+
+.active{
+    border-bottom: 2.5px solid hsl(0, 94%, 66%);
 }
