@@ -16,7 +16,7 @@ class Features extends Component{
         return (
             <div className="Features">
                 <div className="Features-container">
-                    <h2>Features</h2>
+                    <h1>Features</h1>
                     <p className="Featura">
                         Our aim is to make it quick and easy
                         for you to access your favourite websites.

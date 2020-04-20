@@ -3,6 +3,10 @@ import './App.css';
 import Layout from "./Components/Layout/Layout";
 import Hero from "./Components/Hero/Hero";
 import Features from "./Components/Features/Features";
+import Extension from "./Components/Extension/Extension";
+import Faq from './Components/Faq/Faq';
+import Foot from './Components/Footer/Footer'
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -10,6 +14,9 @@ function App() {
       <Layout>
         <Hero />
         <Features />
+        <Extension />
+        <Faq />
+        <Footer />
       </Layout>
     </div>
   );

@@ -1,0 +1,10 @@
+footer{
+    height: 100vh;
+    width: 100%;
+}
+
+.foot{
+    height: 400px;
+    width: inherit;
+    background-color: hsl(231, 69%, 60%);
+}

@@ -1,5 +1,5 @@
 .Features{
-    height: 500px;
+    height: auto;
     width: 100%;
 }
 
@@ -32,5 +32,6 @@
 }
 
 .active{
-    border-bottom: 2.5px solid hsl(0, 94%, 66%);
+    border-bottom: 3px solid hsl(0, 94%, 66%);
+    color: #000 !important;
 }
