@@ -5,7 +5,6 @@ import Hero from "./Components/Hero/Hero";
 import Features from "./Components/Features/Features";
 import Extension from "./Components/Extension/Extension";
 import Faq from './Components/Faq/Faq';
-import Foot from './Components/Footer/Footer'
 import Footer from './Components/Footer/Footer';
 
 function App() {

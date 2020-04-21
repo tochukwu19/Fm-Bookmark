@@ -24,6 +24,12 @@
     margin-top: 15px;
 }
 
+.excard a:hover{
+    border: 1px solid hsl(231, 69%, 60%);
+    background-color: #fff;
+    color: hsl(231, 69%, 60%);
+}
+
 .excard p{
     color: hsl(229, 8%, 60%);
 }

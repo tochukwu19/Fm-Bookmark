@@ -18,9 +18,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: #000 !important;
+    color: #000;
     border-top: 1px solid #eee;
     cursor: pointer;
+}
+
+.question p:hover{
+    color: lightcoral;
 }
 
 .qa{

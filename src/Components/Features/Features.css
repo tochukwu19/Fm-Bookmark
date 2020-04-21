@@ -27,6 +27,10 @@
     padding: 10px;
 }
 
+.Features li:hover{
+    color: lightcoral;
+}
+
 .Features-container{
     text-align: center;
 }
